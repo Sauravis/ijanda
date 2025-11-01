@@ -1,6 +1,11 @@
 # Proyecto iJanda
-Vive La Janda.
-Explora. Descubre. Disfruta.
+
+## 📱 Vive La Janda. Explora. Descubre. Disfruta.
+
+<p align="center">
+  <img src="https://i.imgur.com/iqXzkYo.png" alt="Pantalla de inicio de iJanda" width="300"/>
+</p>
+
 
 ```
 ├── README.md
