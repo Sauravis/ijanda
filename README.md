@@ -72,8 +72,8 @@ Home screen <p align="center">
   <img src="https://i.imgur.com/iqXzkYo.png" alt="Pantalla de inicio de iJanda" width="300"/>
 </p> 
 Welcome screen 
-  <img src="https://imgur.com/a/yJKx3Fa" alt="Pantalla de Bienvenido a iJanda" width="300"/>
-</p> 
+ <img width="355" height="785" alt="d2e5e680f9a16753dd5ad2fbcc9344ba" src="https://github.com/user-attachments/assets/97ecbb2e-fd76-40ed-85c0-55d058291641" />
+ 
 Place detail https://imgur.com/a/yJKx3Fa
 Favorites
 Login screen
