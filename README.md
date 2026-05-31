@@ -1,4 +1,4 @@
-# Proyecto iJanda 🍀 
+# Proyecto iJanda 
 
 ## 📱 iJanda Project 🍀
 🌍 Explore La Janda. Discover. Experience.
