@@ -5,7 +5,7 @@
 
 iJanda is a full-stack tourism platform consisting of a mobile application and a backend API. It allows users to explore tourist locations, events, and places of interest in the La Janda region (Cádiz, Spain).
 
-🧩 Project Architecture
+## 🧩 Project Architecture
 
 This project is divided into three main parts:
 
@@ -15,13 +15,13 @@ Interactive map and favorites system
 Category-based navigation
 Authentication flow
 
-🧠 Backend API (PHP)
+## 🧠 Backend API (PHP)
 REST API for managing data
 User authentication
 Place and event management
 Database communication
 
-🗄️ Database
+## 🗄️ Database
 MySQL relational database
 Structured schema for places, users, and favorites
 
@@ -67,7 +67,7 @@ ijanda-php/
     └── database_schema.sql
 ```
 
-🚀 Features
+## 🚀 Features
 🗺️ Interactive map with locations
 ⭐ Favorites system
 🔎 Search & filtering by category
@@ -75,14 +75,14 @@ ijanda-php/
 🔐 Authentication system
 🌐 Backend API integration
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 React Native
 JavaScript
 PHP
 MySQL
 Git & GitHub
 
-🎯 Purpose
+## 🎯 Purpose
 
 This project was developed as part of my Higher Degree in Multiplatform Application Development (DAM) with focus on:
 
@@ -92,7 +92,7 @@ Backend API design
 Database modeling
 Real-world project structure
 
-📸 Screenshots
+## 📸 Screenshots
 
 ### 🟢 Home Screen
 <p align="center">
@@ -108,14 +108,14 @@ Place detail https://imgur.com/a/yJKx3Fa
 Favorites
 Login screen
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 Migration to Node.js backend
 Improved authentication (JWT)
 Offline mode
 Performance optimization
 UI/UX improvements
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 José Diego Ramos Manzanares
 
