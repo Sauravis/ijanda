@@ -71,7 +71,8 @@ Real-world project structure
 Home screen <p align="center">
   <img src="https://i.imgur.com/iqXzkYo.png" alt="Pantalla de inicio de iJanda" width="300"/>
 </p> 
-Welcome screen <img src="https://imgur.com/a/yJKx3Fa" alt="Pantalla de Bienvenido a iJanda" width="300"/>
+Welcome screen 
+  <img src="https://imgur.com/a/yJKx3Fa" alt="Pantalla de Bienvenido a iJanda" width="300"/>
 </p> 
 Place detail https://imgur.com/a/yJKx3Fa
 Favorites
