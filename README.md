@@ -1,11 +1,94 @@
 # Proyecto iJanda 🍀 
 
-## 📱 Vive La Janda. Explora. Descubre. Disfruta.
+## 📱 iJanda Project 🍀
+🌍 Explore La Janda. Discover. Experience.
 
-<p align="center">
+iJanda is a full-stack tourism platform consisting of a mobile application and a backend API. It allows users to explore tourist locations, events, and places of interest in the La Janda region (Cádiz, Spain).
+
+🧩 Project Architecture
+
+This project is divided into three main parts:
+
+📱 Mobile App (React Native)
+User interface for exploring places and events
+Interactive map and favorites system
+Category-based navigation
+Authentication flow
+
+🧠 Backend API (PHP)
+REST API for managing data
+User authentication
+Place and event management
+Database communication
+
+🗄️ Database
+MySQL relational database
+Structured schema for places, users, and favorites
+
+📁 Project Structure
+ijanda/
+├── App.js
+├── AppNavigator.js
+├── src/
+│   ├── components/
+│   ├── screens/
+│   ├── context/
+│   ├── services/
+│   └── styles/
+
+ijanda-php/
+├── public/
+├── src/
+├── database/
+
+🚀 Features
+🗺️ Interactive map with locations
+⭐ Favorites system
+🔎 Search & filtering by category
+📍 Detailed place information
+🔐 Authentication system
+🌐 Backend API integration
+
+🛠 Tech Stack
+React Native
+JavaScript
+PHP
+MySQL
+Git & GitHub
+
+🎯 Purpose
+
+This project was developed as part of my Higher Degree in Multiplatform Application Development (DAM) with focus on:
+
+Full-stack application development
+Mobile app architecture
+Backend API design
+Database modeling
+Real-world project structure
+
+📸 Screenshots
+
+Home screen <p align="center">
   <img src="https://i.imgur.com/iqXzkYo.png" alt="Pantalla de inicio de iJanda" width="300"/>
-</p>
+</p> 
+Map view
+Place detail
+Favorites
+Login screen
 
+🔮 Future Improvements
+Migration to Node.js backend
+Improved authentication (JWT)
+Offline mode
+Performance optimization
+UI/UX improvements
+
+👨‍💻 Author
+
+José Diego Ramos Manzanares
+
+LinkedIn: linkedin.com/in/josediegoramos
+GitHub: github.com/Sauravis
 
 ```
 ├── README.md
