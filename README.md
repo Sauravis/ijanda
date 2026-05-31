@@ -73,7 +73,7 @@ Home screen <p align="center">
 </p> 
 Welcome screen 
 <p align="center">
-  <img width="355" height="785" alt="Welcome screen iJanda" src="URL_DE_LA_IMAGEN" />
+  <img width="355" height="785" alt="Welcome screen iJanda" src="https://github.com/user-attachments/assets/97ecbb2e-fd76-40ed-85c0-55d058291641" />
 </p>
  
 Place detail https://imgur.com/a/yJKx3Fa
