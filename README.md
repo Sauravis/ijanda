@@ -25,21 +25,47 @@ Database communication
 MySQL relational database
 Structured schema for places, users, and favorites
 
-📁 Project Structure
+## 📁 Project Structure
+
+```text
 ijanda/
 ├── App.js
 ├── AppNavigator.js
+├── app.json
+├── assets/
+│   ├── icon.png
+│   ├── splash-icon.png
+│   └── images/
 ├── src/
 │   ├── components/
-│   ├── screens/
+│   │   ├── CategoryGrid.js
+│   │   └── PlaceItem.js
 │   ├── context/
+│   │   └── FavoriteContext.js
+│   ├── screens/
+│   │   ├── Welcome.js
+│   │   ├── Home.js
+│   │   ├── AuthScreen.js
+│   │   └── app/
+│   │       ├── MapInteractiveScreen.js
+│   │       ├── PlaceListScreen.js
+│   │       ├── PlaceScreen.js
+│   │       ├── FavoritesScreen.js
+│   │       └── EventsScreen.js
 │   ├── services/
+│   │   ├── authService.js
+│   │   └── placeService.js
 │   └── styles/
 
 ijanda-php/
 ├── public/
+│   └── index.php
 ├── src/
-├── database/
+│   ├── db.php
+│   └── routes.php
+└── database/
+    └── database_schema.sql
+```
 
 🚀 Features
 🗺️ Interactive map with locations
@@ -68,7 +94,7 @@ Real-world project structure
 
 📸 Screenshots
 
-### 🟣 Home Screen
+### 🟢 Home Screen
 <p align="center">
   <img src="https://i.imgur.com/iqXzkYo.png" alt="Pantalla de inicio de iJanda" width="300"/>
 </p> 
