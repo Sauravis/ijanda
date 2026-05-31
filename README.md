@@ -1,7 +1,7 @@
 # 📱 iJanda Project 🍀
 🌍 Explore La Janda. Discover. Experience.
 
-iJanda is a full-stack tourism platform consisting of a mobile application and a backend API. It allows users to explore tourist locations, events, and places of interest in the La Janda region (Cádiz, Spain).
+iJanda is a full-stack tourism platform consisting of a mobile application and a backend API. It allows users to explore tourist locations, events, and places of interest in the "La Janda" region (Cádiz, Spain).
 
 ## 🧩 Project Architecture
 
