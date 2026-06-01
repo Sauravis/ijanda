@@ -97,19 +97,35 @@ Real-world project structure
 <img width="357" height="791" alt="Pantalla 1" src="https://github.com/user-attachments/assets/35c0f832-8489-41e7-a2d7-b8cd1de38623" width="300"/>
 </p>
 
+### 🔐 Login Screen
+<p align="center">
+<img width="353" height="789" alt="Pantalla 2" src="https://github.com/user-attachments/assets/9fd48253-32ee-4ced-9586-27b143a93c53" width="300"/>
+</p>
+
+### 👤 Create Account Screen
+<p align="center">
+<img width="351" height="782" alt="Pantalla 3" src="https://github.com/user-attachments/assets/f758f35c-8faa-4dd7-9613-554368dfffd0" width="300"/>
+</p>
+
 ### 🟣 Welcome Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97ecbb2e-fd76-40ed-85c0-55d058291641" width="300"/>
+<img width="350" height="782" alt="Pantalla 4" src="https://github.com/user-attachments/assets/bc5d8af4-1c36-4c85-9e2b-ceb08a2f4c4d" width="300"/>
 </p>
 
 ### 📍 Place Detail
-(añadir imagen aquí)
+<p align="center">
+<img width="362" height="813" alt="Pantalla 5" src="https://github.com/user-attachments/assets/4a36b003-c14d-4121-92c6-948a6025143c" width="300"/>
+</p>
 
 ### ⭐ Favorites
-(añadir imagen aquí)
+<p align="center">
+<img width="350" height="782" alt="Pantalla 4" src="https://github.com/user-attachments/assets/9bf5a6aa-7c6c-4019-9192-40ad674a9832" width="300"/>
+</p>
 
-### 🔐 Login Screen
-(añadir imagen aquí)
+### 🎉 Events Screen
+<p align="center">
+<img width="362" height="813" alt="Pantalla 5" src="https://github.com/user-attachments/assets/f5656e77-d779-4ce2-9cfd-433202318c31" width="300"/>
+</p>
 
 ## 🔮 Future Improvements
 - Backend migration to Node.js  
@@ -122,5 +138,5 @@ Real-world project structure
 
 José Diego Ramos Manzanares
 
-LinkedIn: linkedin.com/in/josediegoramos
-GitHub: github.com/Sauravis
+📧 Contact: ramosmanz.it@gmail.com  
+🔗 LinkedIn: linkedin.com/in/josediegoramos
