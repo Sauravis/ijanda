@@ -119,12 +119,12 @@ Real-world project structure
 
 ### ⭐ Favorites
 <p align="center">
-<img width="350" height="782" alt="Pantalla 4" src="https://github.com/user-attachments/assets/9bf5a6aa-7c6c-4019-9192-40ad674a9832" width="300"/>
+<img width="371" height="824" alt="Pantalla 7" src="https://github.com/user-attachments/assets/e2706042-9f77-485c-bafd-0a1fce5637b0" width="300"/>
 </p>
 
 ### 🎉 Events Screen
 <p align="center">
-<img width="362" height="813" alt="Pantalla 5" src="https://github.com/user-attachments/assets/f5656e77-d779-4ce2-9cfd-433202318c31" width="300"/>
+<img width="364" height="822" alt="Pantalla 8" src="https://github.com/user-attachments/assets/e98a02d8-74c7-4c6c-a316-0415adbf6cf6" width="300"/>
 </p>
 
 ## 🔮 Future Improvements
