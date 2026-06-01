@@ -94,7 +94,7 @@ Real-world project structure
 
 ### 🟢 Home Screen
 <p align="center">
-  <img src="https://i.imgur.com/iqXzkYo.png" width="300"/>
+<img width="357" height="791" alt="Pantalla 1" src="https://github.com/user-attachments/assets/35c0f832-8489-41e7-a2d7-b8cd1de38623" width="300"/>
 </p>
 
 ### 🟣 Welcome Screen
